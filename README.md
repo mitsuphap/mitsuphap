@@ -8,11 +8,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Developer** based in **Vancouver, BC 🇨🇦** with a passion for building intelligent systems and writing clean, maintainable code.
+I'm an **aspiring Software Developer** based in **Vancouver, BC 🇨🇦**, actively looking for my first software development role. I have hands-on experience building real projects in Python, Java, and data science, and I'm passionate about writing clean code and building intelligent systems.
 
-- 🔭 Currently working on **ML-powered applications and data-driven solutions**
-- 🌱 Always learning — currently deepening skills in **machine learning and system design**
-- 💡 I enjoy bridging the gap between software engineering and data science
+- 🔍 **Currently seeking** software developer / data roles in the Vancouver area
+- 🤖 Built end-to-end ML projects including an LSTM stock forecasting model and an AI-powered knowledge base
+- 🌱 Continuously learning — currently deepening skills in **machine learning and system design**
+- 💡 Enjoy bridging the gap between software engineering and data science
 - 📝 I write about tech & development on [Medium](https://thefah-th.medium.com/)
 - 📫 Reach me at: **skymit.work@gmail.com**
 
@@ -43,19 +44,19 @@ I'm a **Software Developer** based in **Vancouver, BC 🇨🇦** with a passion 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Portfolio Projects
 
 ### 🤖 [IntelliBase](https://github.com/mitsuphap/F2025_4495_050_PKu046)
 An applied research project building an AI-powered knowledge base system. Developed as part of CSIS4495 at Douglas College, focusing on intelligent information retrieval and natural language processing.
 **Tech:** Python · ML · NLP
 
 ### 📈 [Tesla Stock Forecasting](https://github.com/mitsuphap/tesla-stock-forecasting)
-A data science project applying time-series analysis and machine learning models to forecast Tesla stock price trends. Includes EDA, feature engineering, and predictive modeling.
-**Tech:** Python · Jupyter Notebook · Pandas · scikit-learn
+End-to-end data science project using LSTM deep learning and news sentiment analysis to forecast Tesla stock prices. Includes a deployed Streamlit web app for interactive predictions.
+**Tech:** Python · Jupyter Notebook · Pandas · scikit-learn · Streamlit
 
 ### 📸 [LiveAt500px](https://github.com/mitsuphap/LiveAt500px)
-A Java application that interfaces with the 500px photography platform API to display and browse live photo feeds.
-**Tech:** Java · REST APIs
+An Android application that interfaces with the 500px photography platform REST API to display a live, browsable photo feed. Built for both phone and tablet.
+**Tech:** Java · Android · REST APIs
 
 ---
 
@@ -66,4 +67,4 @@ A Java application that interfaces with the 500px photography platform API to di
 
 ---
 
-*"The best time to plant a tree was 20 years ago. The second best time is now."*
+💼 **Open to work** — If you're hiring or have an exciting project to collaborate on, feel free to reach out!

@@ -31,7 +31,7 @@ Tools and Platforms: Git, GitHub, Docker, VS Code
 
 ## Portfolio Projects
 
-### Ada - AI Knowledge Base Assistant (Live)
+### Ada - Automated Data Intelligence Platform
 
 An AI-powered knowledge base web application developed as an applied research project at Douglas College (CSIS4495). Ada lets users query and retrieve information intelligently using NLP. Fully deployed to production.
 

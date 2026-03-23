@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Header banner - no animation parameter to ensure GitHub camo proxy works -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sky%20Mitsuphap&fontSize=50&fontColor=fff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Sky+Mitsuphap&fontSize=48&fontColor=fff&fontAlignY=40&desc=Software+Developer+and+AI+ML+Enthusiast&descAlignY=60&descSize=17" width="100%" />
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer+%F0%9F%9A%80;AI+%26+ML+Builder+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Open+to+Work+%E2%80%94+Let%27s+Connect!+%F0%9F%91%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer+%F0%9F%9A%80;AI+%26+ML+Builder+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Open+to+Work+%E2%80%94+Lets+Connect!+%F0%9F%91%8B" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sky-mitsuphap/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://thefah-th.medium.com/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skymit.work@gmail.com)
@@ -26,12 +23,12 @@
 
 ```python
 class SkyMitsuphap:
-    location    = "Vancouver, BC 🇨🇦"
+    location    = "Vancouver, BC"
     role        = "Aspiring Software Developer"
     languages   = ["Python", "Java", "TypeScript", "HTML5", "CSS3"]
     interests   = ["AI/ML", "Full Stack Dev", "Data Science", "Clean Code"]
-    status      = "🟢 Open to work — seeking software developer / data roles"
-    fun_fact    = "I bridge software engineering and data science 🌉"
+    status      = "Open to work - seeking software developer / data roles"
+    fun_fact    = "I bridge software engineering and data science"
 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something great together.")
@@ -52,7 +49,7 @@ class SkyMitsuphap:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**AI & Data Science**
+**AI and Data Science**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -60,7 +57,7 @@ class SkyMitsuphap:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Frameworks & Tools**
+**Frameworks and Tools**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -78,16 +75,16 @@ class SkyMitsuphap:
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 ADA — AI Knowledge Platform</h3>
+      <h3 align="center">🤖 ADA AI Knowledge Platform</h3>
       <div align="center">
         <a href="https://ada-frontend.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/🌐%20Live%20Demo-ada--frontend.vercel.app-58A6FF?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Live%20Demo-ada--frontend.vercel.app-58A6FF?style=for-the-badge" />
         </a>
         <a href="https://github.com/mitsuphap/ada-ai-platform" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-ada--ai--platform-181717?style=for-the-badge&logo=github" />
         </a>
         <br/><br/>
-        <p>AI-powered knowledge base web app built for Applied Research (CSIS4495). Scrapes & analyzes web data using <strong>Google Gemini</strong> + <strong>Google CSE</strong>. Fully deployed to production.</p>
+        <p>AI-powered knowledge base web app built for Applied Research (CSIS4495). Scrapes and analyzes web data using <strong>Google Gemini</strong> and <strong>Google CSE</strong>. Fully deployed to production.</p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
           <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -103,7 +100,7 @@ class SkyMitsuphap:
           <img src="https://img.shields.io/badge/GitHub-tesla--stock--forecasting-181717?style=for-the-badge&logo=github" />
         </a>
         <br/><br/>
-        <p>End-to-end ML project using <strong>LSTM deep learning</strong> + news sentiment analysis to forecast Tesla stock prices. Includes a deployed <strong>Streamlit</strong> web app for interactive predictions.</p>
+        <p>End-to-end ML project using <strong>LSTM deep learning</strong> and news sentiment analysis to forecast Tesla stock prices. Includes a deployed <strong>Streamlit</strong> web app for interactive predictions.</p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
           <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
@@ -164,19 +161,19 @@ class SkyMitsuphap:
 
 ## 📝 Latest Blog Posts
 
-> 📖 I write about software development, AI, and data science on [Medium](https://thefah-th.medium.com/)
+> I write about software development, AI, and data science on [Medium](https://thefah-th.medium.com/)
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect!
+### 💬 Lets Connect
 
 *Open to work — If you're hiring or have an exciting project to collaborate on, feel free to reach out!*
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sky-mitsuphap/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skymit.work@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%" />
 
 </div>

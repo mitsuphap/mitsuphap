@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sky%20Mitsuphap&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
+<!-- Header banner - no animation parameter to ensure GitHub camo proxy works -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sky%20Mitsuphap&fontSize=50&fontColor=fff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer+%F0%9F%9A%80;AI+%26+ML+Builder+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Open+to+Work+%E2%80%94+Let%27s+Connect!+%F0%9F%91%8B" alt="Typing SVG" />
@@ -164,9 +164,7 @@ class SkyMitsuphap:
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 > 📖 I write about software development, AI, and data science on [Medium](https://thefah-th.medium.com/)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 

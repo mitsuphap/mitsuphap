@@ -77,7 +77,7 @@ class SkyMitsuphap:
     <td width="50%">
       <h3 align="center">🤖 ADA AI Knowledge Platform</h3>
       <div align="center">
-        <a href="https://ada-frontend.vercel.app" target="_blank">
+        <a href="https://ada-frontend.vercel.app/scraper" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-ada--frontend.vercel.app-58A6FF?style=for-the-badge" />
         </a>
         <a href="https://github.com/mitsuphap/ada-ai-platform" target="_blank">
